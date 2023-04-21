@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../mazda_rx8"
+		},
+		{
+			"path": "../../ccity_building_set_1"
+		},
+		{
+			"path": "../../oak_trees"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CarSimulator",
+		"liveServer.settings.port": 5501
+	}
+}
